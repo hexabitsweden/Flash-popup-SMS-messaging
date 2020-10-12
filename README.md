@@ -4,7 +4,7 @@ Send binary popup sms on Unix/Linux
 
 ![Image of Lisa](https://github.com/hexabitsweden/Flash-popup-SMS-messaging/blob/main/screenshots/0.png?raw=true)
 ![Image of Lisa](https://github.com/hexabitsweden/Flash-popup-SMS-messaging/blob/main/screenshots/1.png?raw=true)
-![Image of Lisa](https://github.com/hexabitsweden/Flash-popup-SMS-messaging/blob/main/screenshots/1.png?raw=true)
+![Image of Lisa](https://github.com/hexabitsweden/Flash-popup-SMS-messaging/blob/main/screenshots/2.png?raw=true)
 
 Thanks to Terence Eden for the python script to convert text -> binary.
 
